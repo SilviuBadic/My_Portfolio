@@ -13,7 +13,8 @@ You can check out the live version here:
 https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 ## Screenshots
-<img width="1050" alt="a0" src="https://github.com/SilviuBadic/portfolio/assets/130041755/b684d091-7dc5-4470-8cdc-fc33145b0431">
+<img width="1050" alt="a0" src="https://github.com/user-attachments/assets/3b5c3c10-f7dc-4f13-b6ae-8f2f695ed099" />
+
 
 
 <br>
