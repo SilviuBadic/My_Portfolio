@@ -1,0 +1,128 @@
+.myGit{
+  text-align: center;
+  margin-bottom: 50px;
+  background-color:transparent;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  padding: 5px;
+  color: black;
+  border-radius: 16px;
+  text-decoration: none;
+}
+
+.myGit button:hover{
+  text-decoration: none;
+  background-color: rgb(62, 97, 62);
+  color: white;
+}
+
+.myGit p{
+  font-size: 16px;
+}
+.myGit button{
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.myGit button:hover{
+  cursor: pointer;
+}
+
+.github-logo{
+  width: 20px;
+  height: auto;
+}
+
+.description_container a{
+  text-decoration: none;
+}
+
+.description_container h1:hover{
+  color: rgb(135, 194, 140);
+}
+
+.gitHub_link{
+  text-decoration: none;
+  color: green;
+
+}
+
+.gitHub_link p{
+  color: green;
+  text-decoration: none;
+}
+
+.github-logo{
+  width: 24px;
+}
+
+.check_text:hover{
+  text-decoration: underline;
+  scale: 1.01;
+}
+
+.check_text:hover{
+  color: gray;
+}
+
+
+.click-here-link{
+text-decoration: none;
+color: red;
+}
+
+.click-here-btn{
+  color: black;
+  font-style: normal;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid black;
+}
+
+.click-here-btn:hover{
+  color: green;
+  cursor: pointer;
+}
+
+.image_container a:hover{
+  text-decoration: none;
+}
+
+.image_caption a{
+  text-decoration: none;
+}
+
+.more-projects-link:hover{
+  text-decoration: none;
+  color: green;
+  scale: 1.05;
+}
+
+.description_container2{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: green;
+  padding-top: 20px;
+}
+
+.description_container2 p{
+  margin-top: 40px;
+  padding-top: 20px;
+  color: black;
+  width: 70%;
+  font-size: 18px;
+  margin: 20px auto 1px auto;
+  letter-spacing: 1px;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  color: #333;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  row-gap: 20px;
+  line-height: 1.6;
+}
