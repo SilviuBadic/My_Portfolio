@@ -1,7 +1,7 @@
 
 
 # My Portfolio
-This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Curriculum Vitae. I've tried to give it
+This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Resume. I've tried to give it
 a custom look and to make it simple and a bit dynamic. The main reason was to make it simple for anyone interested in finding my work with just a few clicks. I've started from scratch, using
 some HTML and CSS, and in the end I've added some JavaScript code to make it look a bit dynamic.
 
@@ -42,19 +42,19 @@ https://github.com/SilviuBadic/portfolio/assets/130041755/deca4aa3-31e7-4fa0-871
 
 
 ## Features
-My porfolio contains five main parts:
-- First one contains the title, a short introduction with all the animated buttons and achors which lead us to other parts of my porfolio.
-- The second one contains my main skills as a developer and designer, and my hobbies too.
-- The third one contains some of my projects showing my improvement overtime. The rest of them are listed on my GitHub profile.
-- The fourth one contains some basic information about me and my career.
-- The last one is the contact form, for anyone interested in findimg more about me.
+- Responsive design, my portfolio is optimezed for all screen sizes.
+- Includes an organized gallery of favorite projects, each with detailed descriptions, live demo links, and GitHub repositories.
+- An active contact form, ensuring smooth message validation and submission.
+- Direct links to my professional profiles, such as GitHub, LinkedIn, for easy networking and transparency
+- Dynamic features with interactive elements like hover effects, smooth transitions.
 
 ## Lessons Learned
 
-Sometimes simplicity is cooler than lots of non-sense information.
+I've learned to structure and organize my code, the importance of responsive design, and working with Git and GitHub.
+
 ## Optimizations
 
-Adding JavaScript made my portfolio a bit animated. See the Skills section in which we have to click the button in order to move the image and display the requested skills.
+Adding JavaScript made my portfolio a bit animated. 
 
 
 ## Related
