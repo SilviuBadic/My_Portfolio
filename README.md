@@ -19,7 +19,8 @@ https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 <br>
 <br>
-<img width="1050" alt="a1" src="<https://github.com/user-attachments/assets/d00ec481-5da9-47f1-9dd9-62c0067a3798" />
+<img width="1050" alt="a1" src="https://github.com/user-attachments/assets/bb3c8f54-7ceb-4edf-b6fb-411c4c008c8c" />
+
 
 
 
