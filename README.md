@@ -19,19 +19,14 @@ https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 <br>
 <br>
-<img width="1050" alt="a1" src="https://github.com/SilviuBadic/portfolio/assets/130041755/a5083ee1-7eb3-4840-8419-a0678686aa41" />
+<img width="1050" alt="a1" src="<https://github.com/user-attachments/assets/d00ec481-5da9-47f1-9dd9-62c0067a3798" />
 
-
-<br>
-<br>
-
-<img width="1050" alt="a2" src="https://github.com/SilviuBadic/portfolio/assets/130041755/dc86409c-de35-4698-835b-fdb2116b4e06" />
 
 
 <br>
 <br>
 
-<img width="1050" alt="a4" src="https://github.com/SilviuBadic/portfolio/assets/130041755/ad91f00d-380e-4cca-800a-45ebda3732a9" />
+<img width="1050" alt="a2" src="https://github.com/user-attachments/assets/809d97e1-da81-4ad4-b092-69a933b788e9" />
 
 
 <br>
@@ -39,7 +34,10 @@ https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 
 
-https://github.com/SilviuBadic/portfolio/assets/130041755/deca4aa3-31e7-4fa0-871e-85a9fa4001ad
+
+
+https://github.com/user-attachments/assets/c834e90e-2dac-4a0d-87ac-0838a643efc8
+
 
 
 
