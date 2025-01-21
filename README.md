@@ -23,16 +23,19 @@ https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 <br>
 <br>
+
 <img width="1050" alt="a2" src="https://github.com/SilviuBadic/portfolio/assets/130041755/dc86409c-de35-4698-835b-fdb2116b4e06">
 
 
 <br>
 <br>
+
 <img width="1050" alt="a4" src="https://github.com/SilviuBadic/portfolio/assets/130041755/ad91f00d-380e-4cca-800a-45ebda3732a9">
 
 
 <br>
 <br>
+
 
 
 https://github.com/SilviuBadic/portfolio/assets/130041755/deca4aa3-31e7-4fa0-871e-85a9fa4001ad
