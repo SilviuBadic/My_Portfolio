@@ -1,7 +1,7 @@
 
 
-# Portfolio
-This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Curriculum Vitae. I've tried to give it
+# My Portfolio
+This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Resume. I've tried to give it
 a custom look and to make it simple and a bit dynamic. The main reason was to make it simple for anyone interested in finding my work with just a few clicks. I've started from scratch, using
 some HTML and CSS, and in the end I've added some JavaScript code to make it look a bit dynamic.
 
@@ -10,51 +10,54 @@ some HTML and CSS, and in the end I've added some JavaScript code to make it loo
 ## Demo
 
 You can check out the live version here:
-https://silviubadic.github.io/portfolio/html/index.html
+https://silviubadic.github.io/My_Portfolio/html/projects.html
 
 ## Screenshots
-<img width="1050" alt="a0" src="https://github.com/SilviuBadic/portfolio/assets/130041755/b684d091-7dc5-4470-8cdc-fc33145b0431">
+<img width="1050" alt="a0" src="https://github.com/user-attachments/assets/3b5c3c10-f7dc-4f13-b6ae-8f2f695ed099" />
 
-
-<br>
-<br>
-<img width="1050" alt="a1" src="https://github.com/SilviuBadic/portfolio/assets/130041755/a5083ee1-7eb3-4840-8419-a0678686aa41">
 
 
 <br>
 <br>
-<img width="1050" alt="a2" src="https://github.com/SilviuBadic/portfolio/assets/130041755/dc86409c-de35-4698-835b-fdb2116b4e06">
+<img width="1050" alt="a1" src="https://github.com/user-attachments/assets/bb3c8f54-7ceb-4edf-b6fb-411c4c008c8c" />
 
 
-<br>
-<br>
-<img width="1050" alt="a4" src="https://github.com/SilviuBadic/portfolio/assets/130041755/ad91f00d-380e-4cca-800a-45ebda3732a9">
 
 
 <br>
 <br>
 
+<img width="1050" alt="a2" src="https://github.com/user-attachments/assets/809d97e1-da81-4ad4-b092-69a933b788e9" />
 
-https://github.com/SilviuBadic/portfolio/assets/130041755/deca4aa3-31e7-4fa0-871e-85a9fa4001ad
+
+<br>
+<br>
+
+
+
+
+
+https://github.com/user-attachments/assets/c834e90e-2dac-4a0d-87ac-0838a643efc8
+
 
 
 
 
 
 ## Features
-My porfolio contains five main parts:
-- First one contains the title, a short introduction with all the animated buttons and achors which lead us to other parts of my porfolio.
-- The second one contains my main skills as a developer and designer, and my hobbies too.
-- The third one contains some of my projects showing my improvement overtime. The rest of them are listed on my GitHub profile.
-- The fourth one contains some basic information about me and my career.
-- The last one is the contact form, for anyone interested in findimg more about me.
+- Responsive design, my portfolio is optimezed for all screen sizes.
+- Includes an organized gallery of favorite projects, each with detailed descriptions, live demo links, and GitHub repositories.
+- An active contact form, ensuring smooth message validation and submission.
+- Direct links to my professional profiles, such as GitHub, LinkedIn, for easy networking and transparency
+- Dynamic features with interactive elements like hover effects, smooth transitions.
 
 ## Lessons Learned
 
-Sometimes simplicity is cooler than lots of non-sense information.
+I've learned to structure and organize my code, the importance of responsive design, and working with Git and GitHub.
+
 ## Optimizations
 
-Adding JavaScript made my portfolio a bit animated. See the Skills section in which we have to click the button in order to move the image and display the requested skills.
+Adding JavaScript made my portfolio a bit animated. 
 
 
 ## Related
