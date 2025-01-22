@@ -10,7 +10,7 @@ some HTML and CSS, and in the end I've added some JavaScript code to make it loo
 ## Demo
 
 You can check out the live version here:
-https://silviubadic.github.io/My_Portfolio/html/projects.html
+https://silviubadic.github.io/My_Portfolio/html/index.html
 
 ## Screenshots
 <img width="1050" alt="a0" src="https://github.com/user-attachments/assets/3b5c3c10-f7dc-4f13-b6ae-8f2f695ed099" />
