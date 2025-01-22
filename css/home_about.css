@@ -190,11 +190,11 @@ margin-top: 20px;
 
 .profile_img {
   width: 350px;
-  height: 350px;
+  height: auto;
   margin-top: 20px;
   margin-bottom: 30px;
   transform: rotate(-3deg);
-  
+  background-size: cover;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.9); 
 }
 
