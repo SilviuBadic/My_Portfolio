@@ -144,3 +144,44 @@ body, html {
 .social-links img:hover{
   scale: 1.1;
 }
+
+@media (max-width: 480px) {
+  .contact-wrapper {
+    padding: 10px;
+  }
+
+  .contact-form label {
+    font-size: 14px;
+  }
+
+  .contact-form input,
+  .contact-form textarea {
+    font-size: 14px;
+  }
+
+  .contact-form button {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .contact-info {
+    font-size: 14px;
+  }
+
+  .social-links img {
+    width: 20px;
+  }
+
+  .porto-img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .aboutMe{
+    margin-right: 10px;
+  }
+
+  .header2 li img{
+    width: 15px;
+  };
+}
