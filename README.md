@@ -1,4 +1,4 @@
-
+https://silviubadic.github.io/My_Portfolio/html/index.html
 
 # My Portfolio
 This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Resume. I've tried to give it
