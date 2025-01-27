@@ -42,8 +42,8 @@ const skillsData = {
   certificates: [
     'JavaScript Certification',
     'Python 3 Certificate',
-    'SQL Certificate',
-    'Visualize Data with Python Certificate'
+    'SQL Certificate'
+
   ],
 };
 

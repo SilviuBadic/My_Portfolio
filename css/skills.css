@@ -220,19 +220,21 @@ body {
   }
 
   .js-skills-list {
-    grid-template-columns: repeat(4, 1fr);
-    width: 100%; 
-    left: 20%; 
-    transform: translateX(-40%);
+    grid-template-columns: repeat(2, 1fr);
+    width: 80%; 
+    left: 50%; 
+    transform: translateX(-48%);
+    gap:12px;
   }
 
   .js-skills-list div {
-    padding: 8px;
+    padding: 6px;
+    text-align: center;
   }
 
   .js-skills-list img {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
   }
 }
 
