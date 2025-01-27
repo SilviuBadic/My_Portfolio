@@ -187,29 +187,11 @@ body {
     font-size: 16px;
   }
 
-  .background-container2 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 30px;
-    margin: 150px auto;
-    position: relative;
-  }
-  
   .background-container2 div {
     width: 50%;
-    max-width: 400px;
-    aspect-ratio: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 21px;
-    font-weight: bold;
-    border: 2px solid #fff;
-    border-radius: 12px;
-    transition: all 0.4s ease;
-    cursor: pointer;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    max-width: 300px;
+    font-size: 18px;
+
   }
 
 
