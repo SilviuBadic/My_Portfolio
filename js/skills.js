@@ -99,7 +99,6 @@ function resetSkills() {
     box.style.transform = 'translateX(0)';
     box.style.opacity = '1';
     box.classList.remove('active');
-    box.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
   });
 
   skillsList.style.display = 'none';
