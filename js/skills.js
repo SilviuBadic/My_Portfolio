@@ -64,8 +64,8 @@ function showSkills(type, hoveredElement) {
  
    skillsList.innerHTML = '';
    skillsList.style.display = 'grid';
-   skillsList.style.gridTemplateColumns = 'repeat(4, 1fr)';
-   skillsList.style.gap = '10px';
+   skillsList.style.gridTemplateColumns = 'repeat(3, 1fr)';
+   skillsList.style.gap = '8px';
  
    const rect = hoveredElement.getBoundingClientRect();
    const containerRect = container.getBoundingClientRect();
@@ -88,7 +88,7 @@ function showSkills(type, hoveredElement) {
        skillItem.style.flexDirection = 'column';
        skillItem.style.alignItems = 'center';
  
-       skillItem.innerHTML = `<img src="${skill.img}" alt="${skill.name}" style="width: 60px; height: 60px; margin-bottom: 5px; border-radius: 50%; border: 1px solid #ccc;"> <span>${skill.name}</span>`;
+       skillItem.innerHTML = `<img src="${skill.img}" alt="${skill.name}" style="width: 40px; height: 40px; margin-bottom: 5px; border-radius: 50%; border: 1px solid #ccc;"> <span>${skill.name}</span>`;
        skillsList.appendChild(skillItem);
      });
    }
