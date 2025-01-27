@@ -1,0 +1,239 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: url('../images/CV-IMAGE3.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+}
+
+.header2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header2 .signature {
+  font-family: 'Times New Roman', serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+.header2 .main_elements {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+
+.header2 .main_elements li {
+  margin: 0 10px;
+}
+
+.header2 .main_elements img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.header2 .main_elements img:hover {
+  transform: scale(1.1);
+}
+
+.header2 .aboutMe {
+  font-size: 18px;
+  color: black;
+  margin-right: 10px;
+}
+
+.header2 .aboutMe:hover {
+  color: green;
+  cursor: pointer;
+}
+
+.background-container2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin: 150px auto;
+  position: relative;
+}
+
+.background-container2 div {
+  background-color: rgba(217, 114, 114, 0.8);
+  width: 40%;
+  max-width: 400px;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  font-weight: bold;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  transition: all 0.4s ease;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.flaticon_box .flaticon{
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.flaticon_box .flaticon:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.background-container2 div:hover {
+  transform: translateX(-30px) scale(1.1);
+  background-color: rgba(255, 100, 100, 0.9);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.js-skills-list {
+  display: none;
+  position: absolute;
+  top: 250;
+  right: -35%; 
+  width: 30%; 
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+  font-size: 16px;
+  max-height: 80%;
+  animation: fadeIn 0.5s ease-in-out;
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  margin-top: 150px;
+}
+
+.js-skills-list div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(240, 240, 240, 0.9);
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.js-skills-list div:hover {
+  background-color: rgba(200, 200, 200, 0.8);
+  transform: scale(1.05);
+}
+
+.js-skills-list img {
+  margin-bottom: 10px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  width: 60px;
+  height: 60px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .header2 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .header2 .main_elements {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .header2 .main_elements img {
+    width: 24px;
+    height: 24px;
+  }
+
+  .header2 .aboutMe {
+    font-size: 16px;
+  }
+
+  .background-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin: 150px auto;
+    position: relative;
+  }
+  
+  .background-container2 div {
+    width: 50%;
+    max-width: 400px;
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 21px;
+    font-weight: bold;
+    border: 2px solid #fff;
+    border-radius: 12px;
+    transition: all 0.4s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+
+
+
+  .background-container2 {
+    flex-direction: column; 
+    gap: 20px;
+  }
+
+  .js-skills-list {
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%; 
+    left: 20%; 
+    transform: translateX(-40%);
+  }
+
+  .js-skills-list div {
+    padding: 8px;
+  }
+
+  .js-skills-list img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+
