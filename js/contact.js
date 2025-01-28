@@ -1,11 +1,9 @@
 document.getElementById('contact-form').addEventListener('submit', function (event) {
   event.preventDefault();
 
-  // Colectează datele din formular
   const templateParams = {
-    service_id: 'service_46gsu7o', // Înlocuiește cu ID-ul tău
-    template_id: 'template_nyii2wi', // Înlocuiește cu ID-ul șablonului tău
-    user_id: 'mqlcZSutjjPywFsHS', // Cheia ta publică
+    service_id: 'service_46gsu7o',    template_id: 'template_nyii2wi', 
+    user_id: 'mqlcZSutjjPywFsHS', 
     template_params: {
       from_name: document.getElementById('name').value,
       from_email: document.getElementById('email').value,
@@ -13,7 +11,6 @@ document.getElementById('contact-form').addEventListener('submit', function (eve
     },
   };
 
-  // Apel API direct folosind fetch
   fetch('https://api.emailjs.com/api/v1.0/email/send', {
     method: 'POST',
     headers: {
@@ -24,7 +21,6 @@ document.getElementById('contact-form').addEventListener('submit', function (eve
     .then((response) => {
       if (response.ok) {
         alert('Your message has been sent successfully!');
-        // Resetează inputurile
         document.getElementById('name').value = '';
         document.getElementById('email').value = '';
         document.getElementById('message').value = '';
