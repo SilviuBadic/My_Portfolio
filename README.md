@@ -1,6 +1,4 @@
-https://silviubadic.github.io/My_Portfolio/html/index.html
-
-# My Portfolio
+My Portfolio
 This is my portfolio, which contains some of my works, some things about me, skills, hobbies and some anchor links to my Linkedin profile, GitHub and my Resume. I've tried to give it
 a custom look and to make it simple and a bit dynamic. The main reason was to make it simple for anyone interested in finding my work with just a few clicks. I've started from scratch, using
 some HTML and CSS, and in the end I've added some JavaScript code to make it look a bit dynamic.
